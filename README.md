@@ -21,4 +21,4 @@ thì đèn sẽ được bật và ngược lại
  - Truy cập https://www.arduino.cc/en/software và download phiên bản phù hợp với hệ điều hành
  - Repo có sử dụng một thư viện ngoài là LiquidCrystal_I2C đã được đóng zip đi kèm trong repo trong file: "LidquidCrystal_I2C-1.1.2.zip
 # Báo cáo cụ thể của project
-Tổng hợp trong file Embedded_project_report.pdf
+Tổng hợp trong file Embedded_project.pdf
