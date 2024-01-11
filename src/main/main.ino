@@ -260,12 +260,12 @@ digitalWrite(trigPin, LOW);
       
 
     //turn ON/OFF depend on sensor
-    if (sensorValue < 50)
+    if (sensorValue < 30)
     {
       digitalWrite(ledPin, HIGH);
       delay(1000);
     }
-    if (sensorValue > 50)
+    if (sensorValue > 30)
     {
       digitalWrite(ledPin, LOW);
     }
